@@ -2,3 +2,5 @@ buyback
 kartocka otvyasana
 pet a cat
 call mom
+Master Python
+Master Siege
